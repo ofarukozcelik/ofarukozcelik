@@ -8,7 +8,7 @@
 Happy coding!
 
 # 💫 About Me:
-Mobile(iOS & Android) &nbsp; |  Front-end &nbsp; | Back-end &nbsp; | React &nbsp; | React Native &nbsp; | Nodejs Developer
+Mobile(iOS & Android) &nbsp; | &nbsp; Front-end &nbsp; | &nbsp; Back-end &nbsp; | &nbsp; React &nbsp; | &nbsp; React Native &nbsp; | &nbsp; Nodejs Developer
 
 
 ## 🌐 Socials:
